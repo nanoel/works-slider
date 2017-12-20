@@ -856,20 +856,21 @@ select {
   .ba-about .ba-title {
     font-weight: 600;
     line-height: 19.17px;
-    letter-spacing: 0.2em;
-    margin: 85px 0 20px 0;
+    letter-spacing: 0.23em;
+    margin: 85px 0 17px 0;
     text-transform: uppercase; }
   .ba-about .ba-sub-title {
     color: #000000;
     font-size: 86px;
     font-weight: 800;
+    line-height: 1.05em;
     letter-spacing: 0.02em;
     margin: 0; }
 
 .ba-slider {
-  margin-top: 35px;
-  padding-left: 140px;
-  padding-bottom: 140px; }
+  margin-top: 30px;
+  padding-left: 125px;
+  margin-bottom: 50px; }
 
 .ba-slidde {
   margin-left: 45px;
@@ -909,16 +910,16 @@ select {
       font-weight: 600; }
 
 .ba-slider-prev {
-  left: 20px; }
+  left: 5px; }
 
 .ba-slider-next {
-  right: 20px; }
+  right: 5px; }
 
 .ba-slider-arrow {
   position: absolute;
   line-height: 0;
   font-size: 0;
   cursor: pointer;
-  top: 28%; }
+  top: 37%; }
 
 /*# sourceMappingURL=style.css.map */
